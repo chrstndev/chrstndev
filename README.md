@@ -4,6 +4,5 @@
 </div>
 <hr>
 
-- 🏫 - Currently learning **Python** & **Laravel**
+- 🏫 - Currently learning PHP (Laravel) & Linux
 - 📫 - chrstndev@proton.me
-
